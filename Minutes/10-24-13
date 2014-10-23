@@ -1,0 +1,12 @@
+CSE 116 Team g
+Meeting: 10/24/2013 1-3 p.m.
+
+Tasks achieved:
+Implemented move method and part of action phase (part of the turn used for moving and calling elections)
+Reimplemented Student class
+Seperated main method from driver; main game is now object based
+
+To do:
+Finish action phase
+Add rest of departments
+Limit players to moving each student once

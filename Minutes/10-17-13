@@ -1,0 +1,60 @@
+Meeting time: 11am - 1pm
+
+Notes:
+	Classes
+		Player
+		University
+		School
+		Department
+		Student
+		
+	
+	
+	Department Interface incomplete example
+		Department {
+			private Player chair;
+			private School school;
+			private ArrayList<Student> studentsInDept;
+			private String name;
+			
+			Department(String s) { // s is name of department
+			}
+			Department(String s, Player p) { // s is name of department, p is chair of department
+			}
+			
+			
+			
+			
+	Main method incomplete example
+		public static void main(String[] args) {
+			// Get how many players are playing
+			shuffleDepartmentList();
+			Iterator it = new createIteratorForShuffledList();
+			for (# of players) {
+				Department(it.next(), player);
+			}
+			for (departments - players) {
+				Department(it.next());
+			}
+			
+			while (noWinner) {
+				for (# of players) {
+					showInfo();
+					calculate#StudentsToAdd();
+					for (calculate#StudentsToAdd) {
+						input location;
+					}
+					while (movePhase) {
+						a = input("Where dept. do you want to move from?");
+						b = input("Where to move?");
+						move(a,b);
+					}
+	
+		}
+		private move(Department a, Department b) {
+			if (a.isAdjacentTo(b)) {
+				c = input("How many do you want to move?");
+				movePlayers();
+			}
+		}
+		

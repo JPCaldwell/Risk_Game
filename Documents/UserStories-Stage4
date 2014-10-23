@@ -1,0 +1,36 @@
+WEEK 4 USER STORIES
+
+Any remaining user stories from earlier weeks, plus:
+
+Graphical User Interface:
+
+Build a functional graphical user interface which lets users play the game.
+
+The mode of interaction is up to you (as long as it is graphical/event driven).
+In other words, moving students can be done by clicking on a student and then
+clicking on the department to which they should move, or by clicking and dragging
+a student from one department to another.
+
+All information relevant to being able to play the game must be conveyed through 
+the UI.  For example, each player could be associated with a unique color - that
+color could then be used to indicate to the chair of departments and students, as
+well as the dean of schools.  Another piece of information that must be displayed
+is whose turn it is currently.
+
+The user interface (or more properly, the underlying game model) must enforce game
+rules (e.g. you can only move your own students, not the students belonging to 
+another chair).
+
+SUBMISSION: In order for the TAs to give you some feedback on what you've
+accomplished we ask that each team submit what they have, no later than a full
+48 hours prior to their next recitation (i.e. if you have recitation on Tuesday
+at 11:00 AM you should submit the current state of your project by Sunday at
+11:00 AM).  Do this for each weekly submission from here on in.
+
+Also, be sure that only one team member makes a submission each week, and 
+make sure that they list ALL team members as partners when making the 
+submission.
+ 
+PIAZZA - Ask general project questions in Piazza.  Your customer (me!) is
+waiting for questions, and has already answered several.  Be sure to tag
+project questions with the 'project' tag.

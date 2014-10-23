@@ -1,0 +1,13 @@
+CSE 116 Team g
+Meeting: 11/1/2013 2-4 p.m.
+
+Tasks achieved:
+Added the complete department and school list to the game.
+Minor modifications to the Driver class (was originally hard-coded for only 2 players and 4 departments).
+Began writing JUnit tests.
+Sketched out a very basic GUI.
+
+To do:
+Finish writing the JUnit tests.
+Write the JavaDoc for every class.
+Sketch out the GUI more completely and begin to write the code for it.

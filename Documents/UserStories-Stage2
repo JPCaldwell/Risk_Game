@@ -1,0 +1,23 @@
+WEEK 2 USER STORIES
+
+Any remaining week 1 user stories, plus:
+
+There are 6 schools and 24 departments at the university:
+  The school of Arts consists of the Music, Theatre, Dance and Visual Arts departments.
+  The school of Sciences consists of the Biology, Chemistry, Physics and Mathematics departments.
+  The school of Humanities consists of the History, Linguistics, Literature and Religion departments.
+  The school of Engineering consists of the Computer, Electrical, Mechanical and Civil departments.
+  The school of Law consists of the Business, Family, Criminal and Immigration departments.
+  The school of Medicine consists of the Anesthesia, Otolaryngology, Pathology and Pediatrics departments.
+
+The following departments are adjacent (departments within a school are all adjacent to one another):
+  Music, Physics
+  Visual Arts, Mechanical
+  Linguistics, Computer
+  Religion, Mathematics
+  Chemistry, Anesthesia
+  Civil, Business
+  Criminal, Pathology
+
+  There must be JUnit tests for each user story implemented (for all user stories in the project, not just week 2 user stories).
+  

@@ -1,0 +1,24 @@
+STAGE 1 USER STORIES
+
+Each player starts as a department chair.
+Each player assigned a department at random.
+There are two players.
+At the start of each turn each player gets 3 extra students for each
+department that they chair.
+Students can be placed (enrolled) in any of the player’s departments.
+The player can then move their own students between adjacent departments.
+At least one of a player’s own students must be left in each department
+for which they are chair.
+There are two schools at the university.
+There are four departments at the university.
+The school of Arts consists of the Music and Theatre departments.
+The school of Sciences consists of the Biology and Mathematics departments.
+Departments within a school are all adjacent.
+Music and Mathematics are adjacent.
+At the start of a turn a player must be shown the following information:
+
+1) which departments belong to which schools
+2) which departments are adjacent to each other
+3) the chair of each department
+4) how many students are in each department, broken down by their chair
+

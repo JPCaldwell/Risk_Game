@@ -1,0 +1,54 @@
+WEEK 3 USER STORIES
+
+Any remaining user stories from earlier weeks, plus:
+
+1) A complete suite of JUnit tests.  This really isn't a 'user story',
+but unit tests are really important.  Although we said in week 2 that
+JUnit tests should be written, this is the week that you need to focus
+on getting a good solid suite of tests into the project, making sure that
+you have good coverage of your implementation code in your tests.
+
+
+2) Javadoc documentation.  Again, this really isn't a 'user story', but
+documentation is really important.  What documentation do we want to see?
+
+	a) For each class: a JavaDoc comment block describing the role that the
+	class has in the overall system.  Describe any class invariants.
+	[See also: http://en.wikipedia.org/wiki/Class_invariant]
+	
+	b) For each method: a JavaDoc comment block describing what (not how)
+	the method does.  Describe any preconditions (conditions that must
+	hold prior to calling the method in order for the method to function
+	properly).  Document all the parameters as well as the return value.
+	Be sure to use the @author tag for each team member who worked on 
+	the method.  Describe whether/how the method maintains class invariants.
+	
+	c) For each instance/static variable: a JavaDoc comment block describing
+	the role that the variable has in the overall system.  Describe any
+	invariants which apply to the variable.
+	
+3) UI sketch.  Without actually writing UI code, sketch some mock-ups of 
+how a Graphical User Interface for the game will look.  Be sure to show how
+various game elements will be represented visually (e.g. departments, students,
+who is chair of a department, who is dean of a school), as well as how these
+elements will be manipulated.  Keep in mind that functionality is significantly
+more important than fanciness of graphics.  A simple yet functional UI will 
+earn more points than a beautiful but clunky or non-functional UI.
+
+You can draw diagrams on paper and snap (high quality) pictures and import 
+those pictures into your project, or draw your diagrams using a drawing tool.
+I recommend neat hand drawn diagrams, with annotations.
+
+SUBMISSION: In order for the TAs to give you some feedback on what you've
+accomplished we ask that each team submit what they have, no later than a full
+48 hours prior to their next recitation (i.e. if you have recitation on Tuesday
+at 11:00 AM you should submit the current state of your project by Sunday at
+11:00 AM).  Do this for each weekly submission from here on in.
+
+Also, be sure that only one team member makes a submission each week, and 
+make sure that they list ALL team members as partners when making the 
+submission.
+ 
+PIAZZA - Ask general project questions in Piazza.  Your customer (me!) is
+waiting for questions, and has already answered several.  Be sure to tag
+project questions with the 'project' tag.
